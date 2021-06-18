@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdio>
 // Binary Search takes a sorted array and performs divide and conquer approach in
-// O(nlogn) time and O(1) space complexity.
+// O(logn) time and O(1) space complexity.
 int binary_search(int * arr, int n, int key){
     int l=0,r=n-1,mid;
     while(l<r)
