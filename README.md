@@ -7,6 +7,7 @@ This repositry consists of various implementations of Data Strucutres and Algori
 # Path of Learning
 
 <br/>
+
 - [Searching](https://www.github.com/sumanthpalla/Data_Structures_and_Algorithms/tree/main/Searching)
 - [Sorting](https://www.github.com/sumanthpalla/Data_Structures_and_Algorithms/tree/main/Sorting)
 - Divide_and_Conquer
@@ -22,6 +23,6 @@ This repositry consists of various implementations of Data Strucutres and Algori
 - Dynamic Programming
 - Graphs
 - Trie
-
+- Wow
 <br/>
 
