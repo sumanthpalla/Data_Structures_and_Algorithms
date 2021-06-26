@@ -2,8 +2,9 @@
 This repositry consists of various implementations of Data Strucutres and Algorithms
 <br/>
 ## Path of Learning 
-- Searching[./Searching]
-- Sorting
+<
+- [Searching](https://www.github.com/sumanthpalla/Data_Structures_and_Algorithms/tree/main/Searching)
+- [Sorting](https://www.github.com/sumanthpalla/Data_Structures_and_Algorithms/tree/main/Sorting)
 - Divide_and_Conquer
 - Linked Lists
 - Stacks and Queues
@@ -18,4 +19,8 @@ This repositry consists of various implementations of Data Strucutres and Algori
 - Graphs
 - Trie
 
+<<<<<<< HEAD
 <br/>
+=======
+<br/>
+>>>>>>> f634933e192ef95f69a121812ed07c153b9c1dcf
